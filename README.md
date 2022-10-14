@@ -1,6 +1,6 @@
 # Диплом и сертификаты о прохождении курсов
 1. [Диплом о высшем образовании с отличием]()
-2. Курс "Яндекс. Практикум", специальность "Data Analyst", защита в декабре.
+2. Курс "Яндекс. Практикум", специальность "Data Analyst", защита в начале декабря.
 3. [Stepik. Интерактивный тренажер по SQL](https://github.com/Yourius/Certificates/blob/main/stepik_certificate_sql.pdf)
 4. [Solo на калвиатуре. English](https://github.com/Yourius/Certificates/blob/main/Solo_typing_EN.pdf)
 

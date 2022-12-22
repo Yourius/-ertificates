@@ -21,19 +21,25 @@ ___
 08. Черный лебедь | Нассим Талеб
 09. Графики, которые убеждают всех | Александр Богачев
 10. Analyzing Data with Microsoft Power BI | Alberto Ferrari and Marco Russo
-11. 
+11. Наглядная математическая статистика | М. Б. Лагутин
+12. Книга для тех, кто не любит статистику, но вынужден ею пользоваться | Резник
+>
+14. http://medstatistic.ru/articles/glantz.pdf - Мат. статистика - книга Медико-биологическая статистика
+15. https://dmkpress.com/catalog/computer/software_development/978-5-97060-913-2/ - С. Гланц | A/B тесты - книга Доверительное A/B тестирование
+16. https://habr.com/ru/company/avito/blog/454164/ - Рон Кохави | Как устроено A/B-тестирование в Авито
+17. другие полезные книги: https://t.me/it_boooks
 
-
+___
 
 - https://proproprogs.ru/python
 - https://stepik.org/course/63054/syllabus - Интерактивный тренажер по SQL
-- https://stepik.org/course/76/syllabus - Основы статистики. Курс Анатолия Карпова
+- https://stepik.org/course/76/syllabus https://stepik.org/course/76/promo https://stepik.org/course/524/promo https://stepik.org/course/2152/promo - Основы статистики. Курсы Анатолия Карпова
 - https://www.coursera.org/learn/mathematics-and-python/home/welcome - Математика и Python для анализа данных
 - https://www.youtube.com/watch?v=GZvgUcK2oEA - канал Глеба Михайлова   
 - https://www.khanacademy.org/math/arithmetic - базовая математика  
-
+>
 - https://www.kaggle.com/learn - Macine Learning и Data Science
-- playground.tensorflow.org - Macine Learning и Data Sciеnce (в игровой форме)
+- https://playground.tensorflow.org - Macine Learning и Data Sciеnce (в игровой форме)
 - https://github.com/DLSchool - Macine Learning и Data Science (в игровой форме)
 - https://www.cs.cornell.edu/home/kleinber/networks-book/ - интер-дисциплинарный курс на стыке экономики, социологии, вычислительной техники, информатики, и прикладной математики (на английском)
 - https://practicum.yandex.ru/math-foundations/ + https://practicum.yandex.ru/math-for-da-ds/ - базовая математика
@@ -43,4 +49,30 @@ ___
 - https://tableau.pro/m01  - Tableau мини-курс
 - https://datayoga.ru/#edu - Серия бесплатных образовательных онлайн-проектов по получению навыков визуализации данных (Tableau, Qlik Sense
 и QlikView, Yandex DataLens, Loginom)
- 
+>
+- https://www.youtube.com/watch?v=S0r0fMJa9eA - если стандарты компании размыты
+- https://extremepresentation.typepad.com/blog/2009/02/chart-chooser-in-russian.html - выбор визуализации
+- https://www.ibcs.com/ibcs-standards-1-2/ - стандарты подачи данных от IBCS (для отчётов
+- https://streamlit.io/ - если хочется выложить в интернет интерактивную страничку в которой сразу можно будет всё двигать
+>
+- http://seaborn.pydata.org/examples/index.html https://plotly.com/python/ - нестандартные графики
+>
+- https://cloud.yandex.ru/services/datalens - DataLens
+- https://cloud.yandex.ru/training/datalens -курс по DataLens
+>
+- https://habr.com/ru/post/664000/ и http://thisisdata.ru/blog/uchimsya-primenyat-okonnyye-funktsii/ - оконные функции SQL
+>
+-  https://lit-review.ru/biostatistika/vybor-statisticheskogo-kriteriya/ - выбор статкритерия
+-  https://allatambov.github.io/psms/pdf/hypo-test.pdf - теория по проверке гипотез
+-  https://law.bsu.by/pub/11/barvenov_4.pdf - как выбрать уровень значимости и ошибки I и II рода
+>
+- Продуктовые метрики:
+--    https://vc.ru/marketing/314555-bazovye-produktovye-metriki
+--    https://gopractice.ru/series/series_product/
+>
+- Как работать через GIT (важно знать)
+--    https://stepik.org/course/4138/promo (самоучитель)
+--    https://youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb
+> 
+- https://practicum.yandex.ru/resume/ - rак оформлять резюме подробнее
+- https://youtu.be/svk9GmIMR3U https://youtu.be/swhkJy6bBto https://youtu.be/EFDnfaevY4Q https://youtu.be/2Obawm2vzDo - rак проходят собеседования

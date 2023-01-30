@@ -3,7 +3,8 @@
 2. [Certificate of Complition of the Data Analyst Profeccional Training Course (Postgraduate Diploma)](https://github.com/Yourius/Certificates/blob/main/certificate_yandex_practicum_internship.pdf)
 3. [Stepik. Интерактивный тренажер по SQL](https://github.com/Yourius/Certificates/blob/main/stepik_certificate_sql.pdf)
 4. [Solo на клавиатуре. English](https://github.com/Yourius/Certificates/blob/main/Solo_typing_EN.pdf)
-5. [Freedom Finance. Обучение торговле на Американском фондовом рынке](https://github.com/Yourius/Certificates/blob/main/freedom_cert.jpg)
+5. Курс "Excel для работы"| Яндекс.Практикум
+6. [Freedom Finance. Обучение торговле на Американском фондовом рынке](https://github.com/Yourius/Certificates/blob/main/freedom_cert.jpg)
 
 
 ___

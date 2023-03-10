@@ -2,7 +2,7 @@
 1. [Диплом о высшем образовании с отличием (Master's Degree Diploma)](https://github.com/Yourius/Certificates/blob/main/diploma_RU.jpg)
 2. [Certificate of Complition of the Data Analyst Profeccional Training Course (Postgraduate Diploma)](https://github.com/Yourius/Certificates/blob/main/certificate_yandex_practicum_internship.pdf)
 3. [Stepik. Интерактивный тренажер по SQL](https://github.com/Yourius/Certificates/blob/main/stepik_certificate_sql.pdf)
-4. [Bioinformatics Institute. Basic Statistics](https://stepik.org/cert/1942050)
+4. [Bioinformatics Institute. Basic Statistics](https://github.com/Yourius/Certificates/blob/main/stepik-certificate-76-7ea22ea.pdf)
 5. [Solo на клавиатуре. English](https://github.com/Yourius/Certificates/blob/main/Solo_typing_EN.pdf)
 6. Курс "Excel для работы"| Яндекс.Практикум
 7. [Freedom Finance. Обучение торговле на Американском фондовом рынке](https://github.com/Yourius/Certificates/blob/main/freedom_cert.jpg)

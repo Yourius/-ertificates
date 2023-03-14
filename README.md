@@ -80,3 +80,5 @@ ___
 - https://youtu.be/svk9GmIMR3U https://youtu.be/swhkJy6bBto https://youtu.be/EFDnfaevY4Q https://youtu.be/2Obawm2vzDo - как проходят собеседования
 - https://concrete-web-bad.notion.site/DA-f423ba820ae147789815bee6556801f8 - DA дополнительные материалы
 - https://disk.yandex.ru/d/seFrxorf5N6PFw
+
+- https://www.youtube.com/watch?v=1-ADJNE1WNc - Введение в GLM: что это такое и как всё становится хуже | Вебинар | karpov.courses

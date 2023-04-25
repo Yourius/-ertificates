@@ -2,10 +2,11 @@
 1. [Диплом о высшем образовании с отличием (Master's Degree Diploma)](https://github.com/Yourius/Certificates/blob/main/diploma_RU.jpg)
 2. [Certificate of Complition of the Data Analyst Profeccional Training Course (Postgraduate Diploma)](https://github.com/Yourius/Certificates/blob/main/certificate_yandex_practicum_internship.pdf)
 3. [Stepik. Интерактивный тренажер по SQL](https://github.com/Yourius/Certificates/blob/main/stepik_certificate_sql.pdf)
-4. [Bioinformatics Institute. Basic Statistics](https://github.com/Yourius/Certificates/blob/main/stepik-certificate-76-7ea22ea.pdf)
-5. [Solo на клавиатуре. English](https://github.com/Yourius/Certificates/blob/main/Solo_typing_EN.pdf)
-6. Курс "Excel для работы"| Яндекс.Практикум
-7. [Freedom Finance. Обучение торговле на Американском фондовом рынке](https://github.com/Yourius/Certificates/blob/main/freedom_cert.jpg)
+4. [Data Science with Gleb Mihailov. Stepik](https://github.com/Yourius/Certificates/blob/main/stepik-certificate-113596-4e38f99.pdf)
+5. [Bioinformatics Institute. Basic Statistics](https://github.com/Yourius/Certificates/blob/main/stepik-certificate-76-7ea22ea.pdf)
+6. [Solo на клавиатуре. English](https://github.com/Yourius/Certificates/blob/main/Solo_typing_EN.pdf)
+7. Курс "Excel для работы"| Яндекс.Практикум
+8. [Freedom Finance. Обучение торговле на Американском фондовом рынке](https://github.com/Yourius/Certificates/blob/main/freedom_cert.jpg)
 
 
 ___

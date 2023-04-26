@@ -32,6 +32,9 @@ ___
 16. https://habr.com/ru/company/avito/blog/454164/ - Рон Кохави | Как устроено A/B-тестирование в Авито
 17. другие полезные книги: https://t.me/it_boooks
 
+18. [Прикладное машинное обучение с помощью Scikit-Learn, Keras и TensorFlow: концепции, инструменты и техники для создания интеллектуальных систем , 2-е издание | Жерон Орельен](https://www.ozon.ru/product/prikladnoe-mashinnoe-obuchenie-s-pomoshchyu-scikit-learn-keras-i-tensorflow-kontseptsii-207392052/?oos_search=false&sh=8_gZy0SfXg)
+19. Andrew McAfee Erik Brynjolfsson | Machine Platform Crowd Harnessing Our Digital Future
+
 ___
 
 - https://proproprogs.ru/python
@@ -83,3 +86,16 @@ ___
 - https://disk.yandex.ru/d/seFrxorf5N6PFw
 
 - https://www.youtube.com/watch?v=1-ADJNE1WNc - Введение в GLM: что это такое и как всё становится хуже | Вебинар | karpov.courses
+
+__
+- Задачи на kaggle, вот [список](https://www.kaggle.com/getting-started/114864)
+- [Тестовые](https://www.youtube.com/playlist?list=PLQJ7ptkRY-xbefSg1XN3FA-SdSRFcCQfn) по DS от Глеба Михайлова
+- Задачи на [Checkio](https://checkio.org/)
+- https://seanprashad.com/leetcode-patterns/
+- [Задачи на itresume](https://itresume.ru/)
+- [Задачи на itresume](https://seanprashad.com/leetcode-patterns/)
+- [плейлист по основам Linux](https://www.youtube.com/playlist?list=PLQJ7ptkRY-xZ4qiXlmQQLgAPyXJhQ7HxZ)
+- [Основы Git](https://www.youtube.com/watch?v=0cGIiA0AjNw)
+- [Основы докера](https://www.youtube.com/playlist?list=PLQJ7ptkRY-xbR0ka2TUxJkXna40XWu92m)
+- [Основы веб-сервисов](https://www.youtube.com/playlist?list=PLQJ7ptkRY-xYLEAC5Y_sKqrJ9RA-U7Dja)
+

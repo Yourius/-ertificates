@@ -92,6 +92,7 @@ __
 - [Тестовые](https://www.youtube.com/playlist?list=PLQJ7ptkRY-xbefSg1XN3FA-SdSRFcCQfn) по DS от Глеба Михайлова
 - Задачи на [Checkio](https://checkio.org/)
 - https://seanprashad.com/leetcode-patterns/
+- Задачи по pandas и sql на [StrataScratch](https://www.stratascratch.com/?via=gleb)
 - [Задачи на itresume](https://itresume.ru/)
 - [Задачи на itresume](https://seanprashad.com/leetcode-patterns/)
 - [плейлист по основам Linux](https://www.youtube.com/playlist?list=PLQJ7ptkRY-xZ4qiXlmQQLgAPyXJhQ7HxZ)

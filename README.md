@@ -45,10 +45,10 @@ ___
 - https://www.khanacademy.org/math/arithmetic - базовая математика  
 >
 
-Продуктовые метрики
-https://gopractice.ru/product/added_value_metrics/ продуктовые метрики
-https://habr.com/ru/company/yandex_praktikum/blog/697092/ какую математику надо знать для собеса
-https://careerspace.app/ с ЗП, как работает АБ -тестирование
+- Продуктовые метрики
+- https://gopractice.ru/product/added_value_metrics/ продуктовые метрики
+- https://habr.com/ru/company/yandex_praktikum/blog/697092/ какую математику надо знать для собеса
+- https://careerspace.app/ с ЗП, как работает АБ -тестирование
 >
 - https://www.kaggle.com/learn - Macine Learning и Data Science
 - https://playground.tensorflow.org - Macine Learning и Data Sciеnce (в игровой форме)

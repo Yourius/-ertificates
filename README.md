@@ -73,7 +73,7 @@ ___
 - https://cloud.yandex.ru/training/datalens -курс по DataLens
 >
 - https://finalytics.pro/inform/ - Финансовый анализ в Power BI и Excel (блог, формулы, видео, примеры дашбордов)
-- https://youtu.be/82e5FAn_s0s - полезные формулы DAX, текстовые и числовые, преобразование данных, адресов и прочее, Power BI 
+- https://youtu.be/82e5FAn_s0s - полезные формулы DAX, текстовые и числовые, преобразование данных, адресов и прочее, динамическое формирование заголовков, переходов, нарастающий итог, карточки со стрелками, Power BI 
 
 >
 - https://habr.com/ru/post/664000/ и http://thisisdata.ru/blog/uchimsya-primenyat-okonnyye-funktsii/ - оконные функции SQL

@@ -76,6 +76,7 @@ ___
 - https://youtu.be/82e5FAn_s0s - полезные формулы DAX, текстовые и числовые, преобразование данных, адресов и прочее, динамическое формирование заголовков, переходов, нарастающий итог, карточки со стрелками, Power BI 
 - https://www.youtube.com/watch?v=wbf8WeiCdKo&t=354s - привязка к курсам валют в Power BI
 - https://www.youtube.com/watch?v=TB4sNagMR0o&t=690s - перевод дашбордов на другие языки, создание справочников, Power BI
+- https://finalytics.pro/inform/formuli-power-pivot/ - DAX-формулы в Power BI
 >
 - https://habr.com/ru/post/664000/ и http://thisisdata.ru/blog/uchimsya-primenyat-okonnyye-funktsii/ - оконные функции SQL
 >

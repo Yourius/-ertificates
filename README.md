@@ -78,6 +78,8 @@ ___
 - https://www.youtube.com/watch?v=TB4sNagMR0o&t=690s - перевод дашбордов на другие языки, создание справочников, Power BI
 - https://finalytics.pro/inform/formuli-power-pivot/ - DAX-формулы в Power BI
 - https://finalytics.pro/inform/top20-dax/ - ТОП-20 DAX формул для Power Pivot и Power BI
+- https://finalytics.pro/inform/pbi-shortcuts/ - горячие клавиши Power BI
+- 
 >
 - https://habr.com/ru/post/664000/ и http://thisisdata.ru/blog/uchimsya-primenyat-okonnyye-funktsii/ - оконные функции SQL
 >

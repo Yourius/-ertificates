@@ -1,5 +1,5 @@
 # Диплом и сертификаты о прохождении курсов
-1. [Диплом о высшем образовании с отличием (Master's Degree Diploma)](https://github.com/Yourius/Certificates/blob/main/diploma_RU.jpg)
+1. [Диплом о высшем образовании с отличием (Diploma)](https://github.com/Yourius/Certificates/blob/main/diploma_RU.jpg)
 2. [Certificate of Complition of the Data Analyst Profeccional Training Course (Postgraduate Diploma)](https://github.com/Yourius/Certificates/blob/main/certificate_yandex_practicum_internship.pdf)
 3. [Stepik. Интерактивный тренажер по SQL](https://github.com/Yourius/Certificates/blob/main/stepik_certificate_sql.pdf)
 4. [Data Science with Gleb Mihailov. Stepik](https://github.com/Yourius/Certificates/blob/main/stepik-certificate-113596-4e38f99.pdf)
